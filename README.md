@@ -1,7 +1,7 @@
 # Java-Student-Management-System
 
 ## Description
-The **Java-Student-Management-System** is a console-based application designed to efficiently manage student records. It allows users to perform essential operations such as adding, removing, searching, and displaying student data. This project demonstrates core Java programming concepts, including OOP like encapsulation, modular design, and the use of Java Collections.
+The **Java-Student-Management-System** is a console-based application designed to efficiently manage student records. It allows users to perform essential operations such as adding, removing, searching, and displaying student data. This project demonstrates core Java programming concepts, including encapsulation (OOP), modular design, and the use of Java Collections.
 
 ## Features
 - **Add Student Records:** Add new student data with unique IDs, names, and marks.
